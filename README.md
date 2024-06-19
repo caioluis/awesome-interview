@@ -9,3 +9,5 @@ A curated list of companies that have a transparent interview process that respe
 **[BetterStack](https://betterstack.com/careers/engineering)** - BetterStack runs an async interview with a reasonable code challenge and provide specific feedback for candidates that do not succeed in any step after the initial resume screening. Job descriptions cut the bullshit upfront and encourage you to apply.
 
 **[Zefir](https://jobs.zefir.fr/)** - Zefir has a salary calculator for all the positions available, so you can foresee how much you will earn through your career there before applying to the vacancy. The interviewing process is transparent and has a reasonable difficult aligned with the actual job. 
+
+**[Buffer](https://buffer.com/journey#open-roles)** - Buffer's salary transparency policy and benefits already justify its position in this list. The application process is straightforward and the expectations are fair and consistent through the roles seen in their careers' section.
